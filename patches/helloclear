@@ -1,0 +1,11 @@
+Index: helloclear/src/main.c
+===================================================================
+--- helloclear.orig/src/main.c	2018-07-07 16:25:22.497611327 +0000
++++ helloclear/src/main.c	2018-07-07 16:28:11.140516782 +0000
+@@ -4,5 +4,6 @@
+ int main(int argc, char **argv)
+ {
+   printf("Hello Clear\n");
++  printf("Test Junk\n");
+   return EXIT_SUCCESS;
+ }
