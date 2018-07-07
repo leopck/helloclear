@@ -1,0 +1,11 @@
+Index: leock/helloclear/src/main.c
+===================================================================
+--- leock.orig/helloclear/src/main.c	2018-07-07 16:35:55.859283436 +0000
++++ leock/helloclear/src/main.c	2018-07-07 16:36:43.045578593 +0000
+@@ -4,5 +4,6 @@
+ int main(int argc, char **argv)
+ {
+   printf("Hello Clear\n");
++  printf("Jink\n");
+   return EXIT_SUCCESS;
+ }
